@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.exe
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.deps.json
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.runtimeconfig.json
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.dll
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\bin\Debug\net5.0\homework 2.pdb
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.AssemblyInfo.cs
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.dll
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\refint\homework 2.dll
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.pdb
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\homework 2.genruntimeconfig.cache
+C:\Users\Acer\source\repos\visual studio solution(hw2)\homework 2\obj\Debug\net5.0\ref\homework 2.dll
